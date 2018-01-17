@@ -1,2 +1,6 @@
-class Person 
+class Person
+
+  def initialize()
+  end
+
 end
