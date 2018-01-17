@@ -1,6 +1,6 @@
 class Person
 
-  def initialize(name)
+  def initialize(name, breed = "Mutt")
     @name = name
   end
 
